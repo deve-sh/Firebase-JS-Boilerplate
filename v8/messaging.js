@@ -8,3 +8,5 @@ try {
 } catch (err) {}
 
 export default messaging;
+
+// Ref: https://firebase.google.com/docs/cloud-messaging/

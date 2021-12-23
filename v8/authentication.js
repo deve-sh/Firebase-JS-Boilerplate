@@ -11,3 +11,5 @@ export default auth;
 export const providers = {
 	googleProvider, // Add other providers as needed
 };
+
+// Ref: https://firebase.google.com/docs/auth

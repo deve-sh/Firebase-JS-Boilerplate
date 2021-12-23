@@ -9,3 +9,5 @@ export const firestore = mainFirebase.firestore;
 // import db, { firestore } from '.....firestore';
 // Use db for utility like db.collection and db.doc and constructing queries
 // Use firestore variable for getting FieldValue and FieldPath
+
+// Ref: https://firebase.google.com/docs/firestore/quickstart
