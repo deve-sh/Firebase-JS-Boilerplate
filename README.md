@@ -37,3 +37,19 @@ The v9 boilerplate also contains certain functions that can help you abstract th
 - [Cloud Messaging](/v8/messaging.js)
 - [Performance Monitoring](/v8/performance.js)
 - [Remote Config](/v8/remoteConfig.js)
+
+#### Admin SDK
+
+The Firebase Admin SDK, also known as the Firebase Server SDK, is to accomplish maintenance tasks, perform actions that should not require any security rules intervention, or things like marking a user's email as verified without sending out a verification email, changing their password on their behalf, deleting collections etc.
+
+I.E: It's basically you operating Firebase in god mode.
+
+##### v8 Admin SDK
+
+- [Regular - Common.js Syntax since you'll be using this with Node.js on the Server Side](/admin/v8-regular.js)
+- [ES6 and Above/TypeScript](/admin/v8-es6.js)
+
+##### v9 Admin SDK
+
+- [Regular - Common.js](/admin/v9-regular.js)
+- [ES6 and Above/TypeScript](/admin/v9-es6.js)
