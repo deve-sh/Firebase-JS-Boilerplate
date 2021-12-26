@@ -1,5 +1,5 @@
 // V8 Admin SDK with the updated ES6 Import syntax
-import admin from "firebase-admin";
+import * as admin from "firebase-admin";
 
 // Refer to this article to generate and securely store the JSON Firebase Admin Service Account.
 // The reference is for Vercel, but works everywhere equally well.
